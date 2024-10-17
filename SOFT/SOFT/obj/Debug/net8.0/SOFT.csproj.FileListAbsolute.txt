@@ -1,0 +1,409 @@
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfoInputs.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.CoreCompileInputs.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\appsettings.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.staticwebassets.runtime.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.exe
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.deps.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.runtimeconfig.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.pdb
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.AssemblyReference.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfoInputs.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.CoreCompileInputs.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.SOFT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.build.SOFT.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SOFT.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SOFT.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\scopedcss\bundle\SOFT.styles.css
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.Up2Date
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\refint\SOFT.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.pdb
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.genruntimeconfig.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\net8.0\ref\SOFT.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\appsettings.Development.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\appsettings.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.staticwebassets.runtime.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.exe
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.deps.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.runtimeconfig.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\SOFT.pdb
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Azure.Core.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Azure.Identity.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Humanizer.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.CodeDom.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.AssemblyReference.cache
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfoInputs.cache
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfo.cs
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.CoreCompileInputs.cache
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.MvcApplicationPartsAssemblyInfo.cache
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cache
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cs
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.build.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.development.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.SOFT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.build.SOFT.props
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SOFT.props
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SOFT.props
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\scopedcss\bundle\SOFT.styles.css
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.Up2Date
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\refint\SOFT.dll
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.pdb
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\SOFT.genruntimeconfig.cache
+D:\Faks\swe\SOFT4\SOFT\SOFT\obj\Debug\net8.0\ref\SOFT.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\appsettings.Development.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\appsettings.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\SOFT.staticwebassets.runtime.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\SOFT.exe
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\SOFT.deps.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\SOFT.runtimeconfig.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\SOFT.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\SOFT.pdb
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Azure.Core.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Azure.Identity.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Humanizer.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.CodeDom.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.AssemblyReference.cache
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfoInputs.cache
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.AssemblyInfo.cs
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.CoreCompileInputs.cache
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.MvcApplicationPartsAssemblyInfo.cache
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cache
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.RazorAssemblyInfo.cs
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.build.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.development.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.SOFT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.build.SOFT.props
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SOFT.props
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SOFT.props
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\scopedcss\bundle\SOFT.styles.css
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.csproj.Up2Date
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\refint\SOFT.dll
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.pdb
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\SOFT.genruntimeconfig.cache
+D:\Faks\swe\mobilnibutik1.1\mobilnibutik1.1\SOFT\SOFT\obj\Debug\net8.0\ref\SOFT.dll

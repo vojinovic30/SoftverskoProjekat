@@ -1,0 +1,123 @@
+﻿@page
+@model startApp.EditModel
+@{
+}
+@section Styles
+{
+    <link href="@Url.Content("~/Stilovi/stil.css")" rel="stylesheet" type="text/css" />
+    <link rel="Stylesheet" href="@Href("~/Content/stil.css")" />
+}
+<h1>Izmeni Oglas</h1>
+<form method="post">
+    <input type="hidden" asp-for="oglas.id" />
+    <input type="hidden" asp-for="oglas.prihvacen" />
+    <div class="form-wrapper">
+        <h2>Izmeni @Model.oglas.mojMobilni.brand | @Model.oglas.mojMobilni.model</h2>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <label>Izmeni Cenu</label>
+                <input min="0" type="text" asp-for="@Model.oglas.price" class="form-control" placeholder="@Model.oglas.price">
+            </div>
+            <div class="col-md-5 mb-3">
+                <label>Izmeni Battery Health</label>
+                <input min="0" type="text" asp-for="@Model.oglas.batteryHealth" class="form-control" placeholder="@Model.oglas.batteryHealth">
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.oglas.year" class="form-control" placeholder="@Model.oglas.year" readonly>
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.oglas.memory" class="form-control" placeholder="@Model.oglas.memory" readonly>
+            </div>
+        </div>
+        <div class="form-row">
+            <input type="text" asp-for="@Model.oglas.picture1" class="form-control pic" placeholder="@Model.oglas.picture1" readonly>
+            <input type="text" asp-for="@Model.oglas.picture2" class="form-control pic" placeholder="@Model.oglas.picture2" readonly>
+            <input type="text" asp-for="@Model.oglas.picture3" class="form-control pic" placeholder="@Model.oglas.picture3" readonly>
+        </div>
+
+        <div class="btn-row">
+            <button class="btn btn-primary" type="submit" asp-page-handler="Change">Sačuvaj izmene</button>
+            <button class="btn btn-primary" type="submit" asp-page="./UserProfile" asp-route-id="@Model.oglas.user.id">Odustani</button>
+        </div>
+    </div>
+    <style>       
+        @@media only screen and (max-width: 600px) {
+            .form-wrapper {
+                width: 80vw !important;
+                margin-bottom: 89px !important;
+            }
+
+            .form-row {
+                gap: 10px;
+            }
+
+            .mb-3 {
+                width: 100%;
+            }
+            .btn-row {
+                margin-top: 25px;
+            }
+        }
+        label {
+            margin-bottom: 10px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            margin-bottom: 20px;
+        }
+        .btn-row {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            background: #4b423b;
+        }
+
+        .btn {
+            background: #4b423b;
+            margin-top: 10px;
+            border: none;
+            transition: 0.3s;
+            border-radius: 25px;
+            padding: 9px 22px;
+        }
+
+        body {
+            align-items: center;
+            justify-content: center;
+        }
+
+        .form-wrapper {
+            width: 50vw;
+            margin: 0 auto;
+        }
+
+        .form-row {
+            display: flex;  
+            margin-top: 40px;
+            justify-content: space-between;
+        }
+        h2 {
+            font-size: 20px;
+        }
+        .pic {
+            width: 33%;
+        }
+
+        .black {
+            color: black;
+        }
+
+        .form-control {
+            border-radius: 13px;
+            border: 1px solid #4b423b;
+            color: grey;
+        }
+    </style>
+</form>

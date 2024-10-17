@@ -1,0 +1,154 @@
+﻿@page
+@model startApp.AddMobilniModel
+@{
+   
+}
+<h1>Dodaj Oglas</h1>
+<form method="post" class="needs-validation">
+    <div class="form-wrapper">
+        <h4>Informacije o telefonu</h4>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="MojMobilni.brand" class="form-control firstCapital" placeholder="Brend" required>
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="MojMobilni.model" class="form-control" placeholder="Model" required>
+            </div>
+
+		</div>
+		<div class="form-row">
+			<div class="col-md-5 mb-3">
+				<select class="form-control" asp-for="MojMobilni.tip">
+					<option value="Smartphone">Smartphone</option>
+					<option value="Tarabica">Tarabica</option>
+				</select>
+			</div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input min="1900" max="2024" type="number" asp-for="oglas.year" class="form-control firstCapital" placeholder="Godina"  required>
+            </div>
+            <div class="col-md-5 mb-3">
+                <input min="0" max="10000000" type="number" asp-for="oglas.price" placeholder="Cena" class="form-control firstCapital" required>
+                <div class="invalid-tooltip">
+                    Nevalidna cena.
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <select class="form-control" asp-for="oglas.memory">
+                    <option selected disabled>Memorija</option>
+                    <option value="64">64</option>
+                    <option value="128">128</option>
+                    <option value="256">256</option>
+                    <option value="512">512</option>
+                    <option value="1024">1024</option>
+                </select>
+            </div>
+            <div class="col-md-5 mb-3">
+                <input min="0" max="100" type="number" placeholder="Battery Health" asp-for="oglas.batteryHealth" class="form-control firstCapital" required>
+            </div>
+        </div>
+        <h4>Dodaj slike</h4>
+        <div class="form-row">
+            <input asp-for="@Model.oglas.picture1" type="file" class="form-control pic" />
+            <input asp-for="@Model.oglas.picture2" type="file" class="form-control pic" />
+            <input asp-for="@Model.oglas.picture3" type="file" class="form-control pic" />
+        </div>
+        <h4>Zelim da zamenim za</h4>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.ZeljeniMobilni.brand" class="form-control firstCapital " placeholder="Brend">
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.ZeljeniMobilni.model" class="form-control " placeholder="Model">
+            </div>
+        </div>
+        <div class="btn-wrapper">
+            <button class="btn btn-primary" type="submit" asp-page-handler="DodajMobilni">Dodaj Telefon</button>
+        </div>
+    </div>
+  <style>
+      .form-control {
+          border-radius: 13px;
+          border: 1px solid #4b423b;
+      }
+      .btn-wrapper {
+          display: flex;
+          justify-content: center;
+          margin-top: 20px;
+      }
+      .btn {
+        background: #4b423b;
+        border: #4b423b;
+        transition: 0.4s;
+        border-radius: 25px;
+        padding: 9px 22px;
+      }
+      .btn:hover {
+        background: #4b423b;
+          transform: scale(1.05);
+      }
+      h4 {
+          margin-top: 20px;
+      }
+      .form-row {
+          display: flex;    
+          justify-content: space-between;
+      }
+      h4 {
+          font-size: 20px;
+      }
+      h1 {
+          text-align: center;
+            font-size: 32px;
+            margin-bottom: 20px;
+      }
+      label {
+          color: #1b1b1b;
+          font-weight: 500;
+      }
+      input::first-letter
+      {
+          background-color:rgba(0, 0, 0, 0);
+      }
+      .form-wrapper {
+          width: 50vw;
+          margin: 0 auto;
+      }
+        .firstCapital
+        {
+            text-transform: capitalize;
+        }
+        .select
+        {
+            width: 200px;
+        }
+        .pic
+        {
+            width: 28%;
+        }
+        .black
+        {
+          color: black;
+        }
+        form {
+            height: 90vh;
+        }
+        form {
+            margin-bottom: 30px;
+        }
+        @@media only screen and (max-width: 600px) {
+          .form-wrapper {
+              width: 80vw;
+          }
+          .form-row {
+                gap: 10px;
+          }
+          .mb-3 {
+                width: 100%;
+          }
+        }
+        </style>
+</form>

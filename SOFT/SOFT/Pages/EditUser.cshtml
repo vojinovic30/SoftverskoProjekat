@@ -1,0 +1,165 @@
+﻿@page
+@model startApp.EditUserModel
+@{
+}
+
+<h1>Izmeni profil</h1>
+<form method="post">
+    <input type="hidden" asp-for="user.id" />
+    <input type="hidden" asp-for="user.approved" />
+    <input type="hidden" asp-for="user.password" />
+    <div class="form-wrapper">
+		<div class="form-row">
+			<div class="col-md-5 mb-3">
+				<input type="text" asp-for="@Model.user.username" class="form-control" placeholder="@Model.user.username" readonly>
+			</div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.picture" class="form-control" placeholder="@Model.user.picture" readonly>
+            </div>
+        </div>
+        <div class="form-row">
+            
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.name" class="form-control firstCapital" placeholder="Ime">
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.surname" class="form-control firstCapital" placeholder="Prezime">
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3 none">
+                <label>Admin</label>
+                <input type="text" asp-for="@Model.user.admin" class="form-control" placeholder="@Model.user.admin">
+            </div>
+            <div class="col-md-5 mb-3 none">
+                <label>Stari pass</label>
+                <input type="text" asp-for="@Model.user.password" class="form-control" placeholder="@Model.user.password">
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.address" class="form-control firstCapital" placeholder="Adresa">
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.brojTelefona" class="form-control" placeholder="Broj Telefona">
+            </div>
+        </div>
+        <h1>Osiguraj profil</h1>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.sigurnosnoPitanje" class="form-control" placeholder="Sigurnosno Pitanje">
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="text" asp-for="@Model.user.odgovorNaPitanje" class="form-control" placeholder="Odgovor">
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3 mid">
+                <input type="password" asp-for="@Model.oldPassword" class="form-control" placeholder="Stara sifra">
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-5 mb-3">
+                <input type="password" asp-for="@Model.passwordNew1" class="form-control" placeholder="Nova sifra">
+            </div>
+            <div class="col-md-5 mb-3">
+                <input type="password" asp-for="@Model.passwordNew2" class="form-control" placeholder="Nova sifra ponovo">
+            </div>
+        </div>
+        <label class="red">@Model.message</label>
+
+        <div class="btn-row">
+            <button class="btn btn-primary" type="submit" asp-page-handler="Change">Sačuvaj izmene</button>
+            <button class="btn btn-primary" type="submit" asp-page="./UserProfile" asp-route-id="@Model.user.id">Odustani</button>
+        </div>
+    </div>
+
+    <style>
+        @@media only screen and (max-width: 600px) {
+            .form-wrapper {
+                width: 80vw !important;
+                margin-bottom: 89px !important;
+            }
+
+            .form-row {
+                gap: 10px;
+            }
+
+            .mb-3 {
+                width: 100%;
+            }
+
+            .btn-row {
+                margin-top: 25px;
+            }
+        }
+        .mid {
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            margin-bottom:20px;
+        }
+        .btn-row {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        .btn:hover {
+            background: #4b423b;
+            transform: scale(1.05);
+        }
+        input {
+            color: grey !important;
+        }
+
+        .btn {
+            background: #4b423b;
+            border: #4b423b;
+            transition: 0.4s;
+            border-radius: 25px;
+            padding: 9px 22px;
+        }
+        .form-row {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .form-wrapper {
+            width: 50vw;
+            margin: 0 auto;
+            margin-bottom: 80px;
+        }
+
+        .red {
+            color: red;
+        }
+
+        .disabled {
+            cursor: not-allowed;
+        }
+
+        .none {
+            display: none;
+        }
+
+        .toRow {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .firstCapital {
+            text-transform: capitalize;
+        }
+
+        .black {
+            color: black;
+        }
+        .form-control {
+            border-radius: 13px;
+            border: 1px solid #4b423b;
+        }
+    </style>
+</form>

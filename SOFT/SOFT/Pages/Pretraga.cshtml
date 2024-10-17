@@ -1,0 +1,232 @@
+﻿@page
+@model startApp.PretragaModel
+@{
+}
+
+
+
+<link rel="stylesheet" href="Stilovi\stil.css">
+<form method="post">
+    <div>
+   
+<div class = "toColumn">
+
+    <div class = "toRow">
+        <div class="pretrazi">
+            <select onchange="pls()" asp-for="MobilniZaPretragu.brand" asp-items="Model.SviBrendovi" class="pretrazi-selekt">
+                <option value="">Brend</option>
+
+            </select>
+        </div>
+        
+        
+
+
+        <div class="pretrazi">
+            <select asp-for="MobilniZaPretragu.model" asp-items="Model.SviModeli" class="pretrazi-selekt">
+                <option value="">Model</option>
+            </select>
+        </div>
+    </div>
+
+    <div class = "search">
+            <div class = "select">
+                    <input type="number" asp-for="yearFrom" class="input-class" value="Godina od" placeholder="Godina od" />
+                    <input type="number" asp-for="yearTo" class="input-class" value="Godina do" placeholder="Godina do" />
+            </select>
+            </div>
+            <div class = "select">
+                    <input type="number" asp-for="priceFrom" class="input-class" value="Cena od" placeholder="Cena od" />
+                    <input type="number" asp-for="priceTo" class="input-class" value="Cena do" placeholder="Cena do" />
+            </select>
+            </div>
+             <div class = "select">
+                    <input type="number" asp-for="memoryFrom" class="input-class" value="Memorija od" placeholder="Memorija od" />
+                    <input type="number" asp-for="memoryTo" class="input-class" value="Memorija do" placeholder="Memorija do" />
+            </select>
+            </div>
+            
+    </div><div class="select-sort">
+    Sortiraj po:
+    <select asp-for="sorter" class="pretrazi-selekt">
+        <option value="0"></option>
+        <option value="1">Cena od niže ka višoj</option>
+        <option value="2">Cena od više ka nižoj</option>
+        <option value="3">Memorija od niže ka višoj</option>
+        <option value="4">Memorija od više ka nižoj</option>
+    </select>
+</div>
+        
+    </div>
+    <div class="dugmici">
+        <button class="btn btn-primary m-1 dugme" asp-page-handler="Pretrazi" >Pretrazi</button>
+        <button class="btn btn-primary m-1 dugme" asp-page-handler = "Remove">Ukloni pretragu</button>
+    </div>
+    <div class="oglas-wrapper">
+        @foreach (var oglas in Model.oglasi)
+        {
+        <div class="one card mb-3">
+            <div class="up">
+                <div class="img-class">
+                    <img src="@oglas.picture1" class="card-img">
+                </div>
+                <div class="down">
+                    <div class="kartica">
+                        <h5 class="card-title">@oglas.mojMobilni.brand @oglas.mojMobilni.model</h5>
+                        <div class="card-text">@oglas.price €</div>
+                        
+                    </div>
+                    <div class="kartica">
+                        <div class="dugmici">
+                            <button class="btn btn-primary flexEnd dugme" type="submit" asp-page="./ViewMobilni" asp-route-id="@oglas.id">Pogledaj</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+      
+       
+
+    
+</form>
+
+<style>
+    @@media only screen and (max-width: 600px) {
+        .search {
+            flex-direction: column;
+            gap: 30px;
+        }
+        .one {
+            width: 100% !important;
+        }
+    }
+        .card {
+        border: none;
+    }
+    .card-text {
+        color:grey;
+    }
+    .kartica {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .oglas {
+        display: flex;
+        flex-direction: column;
+    }
+    .oglas-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        width: 90%;
+        gap: 10px;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+    .input-class {
+        border-radius: 13px;
+        padding: 10px;
+        width: 90%;
+        border: 1px solid #4b423b;
+
+    }
+    .select-sort {
+        display: flex;
+        margin: 0 auto;
+        margin-top: 33px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pretrazi-selekt {
+        border-radius: 25px;
+        padding: 10px;
+        width: 100%;
+        border: 1px solid #4b423b;
+    }
+    .pretrazi {
+        width: 45%;
+    }
+    .justify
+    {
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    .one {
+        width: 24%;
+        display: flex;
+    }
+    input, select
+    {
+        margin-right: 20px;
+        border-radius: 5px;
+        margin-left: 5px;
+    }
+    .toColumn {
+        display: flex;
+        width: 80%;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .toRow {
+        display: flex;
+        margin: 0 auto;
+        width: 80%;
+        justify-content: space-around
+    }
+    .dugmici
+        {
+            display: flex;
+            height: 10%;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+            margin-bottom: 50px;
+        }
+        .search
+        {
+            margin: 0 auto;
+            display: flex;
+            margin-top: 40px;
+        }
+        .select {
+            display: flex;
+            flex-direction: column;
+            gap: 11px;
+        }
+        img
+        {
+            height: 100%; 
+            width: 100%; 
+            object-fit: contain
+        }
+        .header
+        {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-end;
+        }
+        .headerLink
+        {
+            margin: 5px;
+        }
+
+        .dugme {
+            margin-bottom: 15px !important;
+            background-color: #4b423b;
+            transition: 0.3s;
+            border: none;
+            border-radius: 25px;
+            padding: 9px 22px;
+    }
+
+        .dugme:hover {
+            background-color: #4b423b;
+            transform: scale(1.1);
+            border: none;
+        }
+    </style>
+
+  

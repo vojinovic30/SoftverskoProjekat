@@ -1,0 +1,271 @@
+﻿@page
+@model IndexModel
+@{
+  
+}
+
+<form  method="post">
+
+    <div class="hero">
+        <div class="hero-wrapper">
+            <h1>Mobilni Butik</h1>
+            <h2>Prodaja mobilnih telefona putem oglasa</h2>
+			<div class="btn-wrapper-hero">
+				@if (this.User.Identity.IsAuthenticated == false)
+				{
+                    <button class="btn btn-primary flexEnd btn-pogledaj" asp-page="./LogIn">Prijava</button>
+                    <button class="btn btn-primary flexEnd btn-pogledaj" asp-page="./SignUp">Registracija</button>
+                    
+
+				}
+				else
+				{
+                    <button type="submit" class="btn btn-primary flexEnd btn-pogledaj" asp-page="UserProfile" asp-route-id="@Model.myUser.id">Profil</button>
+                    <button type="submit" class="btn btn-primary flexEnd btn-pogledaj" asp-page-handler="LogOut">Log out</button>
+
+				}
+
+            </div>
+           
+        </div>
+	</div>
+	<h2 class="h2">Popularni Oglasi</h2>
+    <div class = "oglasi-wrapper">
+    @foreach (var oglas in Model.oglasi)
+    {
+                <div class="card m-3 trecina kartica">
+                    <img class="card-img-top imageThumbnail" src="@oglas.picture1"/>
+                    <div class="card-footer text-center footerMob">
+                        <h3 class="text-center">@oglas.mojMobilni.brand @oglas.mojMobilni.model</h3>
+                        <h4>@oglas.price €</h4>
+                        
+                    </div>
+                    <div class="btn-wrapper">
+                        <button class="btn btn-primary flexEnd btn-pogledaj" type="submit" asp-page="./ViewMobilni" asp-route-id="@oglas.id">Pogledaj</button>
+                    </div>
+                </div>
+
+                    
+    }
+	</div>
+	<h2 class="h2">Opremi svoj telefon</h2>
+    <div class="reklama">
+        <div class="card m-3 trecina kartica">
+            <img class="img-reklama" src="~/Pictures/reklama1.jpg"/>
+            <h3 class="text-center-reklama">Maskica za telefon</h3>
+            <div class="btn-wrapper">
+                <a class="reklama-link" href="https://mefyshop.com/products/mefy-wild-side" target="_blank">Kupi</a>
+            </div>
+        </div>
+        <div class="card m-3 trecina kartica">
+            <img class="img-reklama" src="~/Pictures/reklama2.jpg" />
+            <h3 class="text-center-reklama">Maskica za telefon</h3>
+            <div class="btn-wrapper">
+
+                <a class ="reklama-link" href="https://mefyshop.com/products/mefy-sea-salt-2" target="_blank">Kupi</a>
+            </div>
+        </div>
+        <div class="card m-3 trecina kartica">
+            <img class="img-reklama" src="~/Pictures/reklama3.jpg" />
+            <h3 class="text-center-reklama">Maskica za telefon</h3>
+            <div class="btn-wrapper">
+                <a class="reklama-link" href="https://mefyshop.com/products/mefy-peachy-gold" target="_blank">Kupi</a>
+            </div>
+        </div>
+        <div class="card m-3 trecina kartica">
+            <img class="img-reklama" src="~/Pictures/reklama4.jpg" />
+            <h3 class="text-center-reklama">Maskica za telefon</h3>
+            <div class="btn-wrapper">
+                <a class="reklama-link" href="https://mefyshop.com/products/mefy-almond-latte" target="_blank">Kupi</a>
+            </div>
+        </div>
+    </div>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
+        @@media only screen and (max-width: 600px) {
+            h1 {
+                font-size: 48px;
+            }
+            h2 {
+                width: 80vw;
+                margin: 0 auto;
+            }
+            .hero {
+                background-position: center;
+            }
+
+            .btn-wrapper-hero {
+                margin-top: 50px;
+            }
+            .trecina {
+                width: 90% !important;
+            }
+            .reklama {
+                display: flex;
+                flex-direction:column;
+            }
+            .img-reklama {
+                width: 40% !important;
+            }
+        }
+        .reklama-link {
+            text-decoration: none;
+            color: white;
+            background-color: #4b423b;
+            border-radius: 25px;
+            border: solid white 1px;
+            padding: 9px 22px;
+            font-size: 14px;
+            transition: 0.3s;
+        }
+        a:hover {
+            color: white;
+            text-decoration: none;
+        }
+            .reklama-link: hover {
+            text-decoration: none;
+            color: white;
+        }
+
+        a: focused {
+            text-decoration: none;
+            color: white;
+        }
+
+            .reklama-link: focused {
+            text-decoration: none;
+            color: white;
+        }
+
+        .reklama-link:hover {
+            background-color: #4b423b;
+            transform: scale(1.1);
+        }
+        .text-center-reklama {
+            margin-top: 0;
+            font-size: 20px;
+            text-align: center;
+        }
+        .img-reklama {
+            width: 75%;
+            margin: 0 auto;
+        }
+        .reklama {
+            width: 80vw;
+            margin: 0 auto;
+			margin-bottom: 70px;
+            display: flex;
+        }
+        .reklama-heading {
+            text-align: center;
+        }
+        .btn-wrapper-hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .dugme {
+            background-color: #4b423b;
+            border-radius: 25px;
+            border: solid white 1px;
+            padding:12px 25px;
+            font-size: 16px;
+        }
+        .hero {
+            background: url(Pictures/background.jpg);
+            background-size: cover;
+            height: 91vh;
+            margin-top: -10px;
+        }
+        .hero-wrapper {
+            color: white;
+            text-align: center;
+            padding-top:10%;
+        }
+        h1 {
+            font-weight: bold;
+            font-size: 68px;
+        }
+        .h2 {
+            margin-top: 55px;
+        }
+        h2 {
+            text-align:center;
+            font-size: 26px;
+        }
+        .btn-pogledaj {
+            margin-bottom: 15px !important;
+            background-color: #4b423b;
+            border: none;
+            transition: 0.3s;
+            border-radius: 25px;
+            padding: 9px 22px;
+        }
+        .btn-pogledaj:hover {
+            background-color: #4b423b;
+            transform: scale(1.1);
+            border: none;
+        }
+        .card-footer {
+            background: white;
+            border: none;
+        }
+        .headerMob {
+            height: 20%;
+        }
+        .footerMob
+        {
+            height: 40%;
+        }
+        .trecina
+        {
+            border: none !important;
+            width: 30.5%;
+        }
+        .btn-wrapper
+        {
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly
+        }
+        .imageThumbnail
+        {
+            height:fit-content;
+            width: 100%;
+        }
+        .btn
+      {
+        margin: 2px;
+      }
+
+        .oglasi-wrapper {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            border-radius: 5px;
+            justify-content: space-around;
+            width: 80%;
+            margin: 0 auto;
+            margin-top: 20px;
+            margin-bottom: 50px;
+        }
+        img
+        {
+            height: 100%; 
+            width: 100%; 
+            object-fit: contain
+        }
+        .header
+        {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-end;
+        }
+        .headerLink
+        {
+            margin: 5px;
+        }
+    </style>
+</form>

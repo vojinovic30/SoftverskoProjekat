@@ -1,0 +1,240 @@
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.AssemblyReference.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.AssemblyInfoInputs.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.AssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.CoreCompileInputs.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorAssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.exe
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.deps.json
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.runtimeconfig.json
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.runtimeconfig.dev.json
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.pdb
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.Views.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.Views.pdb
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.TagHelpers.input.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.TagHelpers.output.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorCoreGenerate.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\AddMobilni.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\EditUser.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Pretraga.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\UserProfile.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\ViewMobilni.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorTargetAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorTargetAssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.Views.pdb
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\SOFT.StaticWebAssets.Manifest.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\SOFT.StaticWebAssets.Pack.cache
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SOFT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SOFT.props
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SOFT.props
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SOFT.props
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.Up2Date
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.dll
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.pdb
+C:\Users\Vesna Milutinovic\Desktop\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.genruntimeconfig.cache
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.exe
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.deps.json
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.runtimeconfig.json
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.runtimeconfig.dev.json
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.pdb
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.Views.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.Views.pdb
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Faks\swe\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.AssemblyReference.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.AssemblyInfoInputs.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.AssemblyInfo.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.CoreCompileInputs.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.MvcApplicationPartsAssemblyInfo.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorAssemblyInfo.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorAssemblyInfo.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.TagHelpers.input.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.TagHelpers.output.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorCoreGenerate.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\AddMobilni.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\EditUser.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Pretraga.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\UserProfile.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\ViewMobilni.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorTargetAssemblyInfo.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorTargetAssemblyInfo.cs
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.Views.pdb
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\SOFT.StaticWebAssets.Manifest.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\SOFT.StaticWebAssets.Pack.cache
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SOFT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SOFT.props
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SOFT.props
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SOFT.props
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.Up2Date
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.dll
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.pdb
+D:\Faks\swe\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.genruntimeconfig.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.exe
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.deps.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.runtimeconfig.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.runtimeconfig.dev.json
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.pdb
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.Views.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\SOFT.Views.pdb
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.AssemblyReference.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.AssemblyInfoInputs.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.AssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.CoreCompileInputs.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorAssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.TagHelpers.input.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.TagHelpers.output.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorCoreGenerate.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\AddMobilni.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\EditUser.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Pretraga.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\UserProfile.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\ViewMobilni.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorTargetAssemblyInfo.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.RazorTargetAssemblyInfo.cs
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.Views.pdb
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\SOFT.StaticWebAssets.Manifest.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\SOFT.StaticWebAssets.Pack.cache
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SOFT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SOFT.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SOFT.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SOFT.props
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.csproj.Up2Date
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.dll
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.pdb
+C:\Users\Vesna Milutinovic\Downloads\SOFT4\SOFT\SOFT\obj\Debug\netcoreapp3.1\SOFT.genruntimeconfig.cache

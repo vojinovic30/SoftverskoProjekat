@@ -1,0 +1,547 @@
+﻿@page
+@model startApp.ViewMobilniModel
+@{
+}
+
+<form method = "post">
+
+    
+    <input type="hidden" asp-for="oglas.id"/>
+    <input type="hidden" asp-for="oglas.mojMobilni.id"/>
+
+    <div class = "toRow heightInherit">
+       <div class="card mb-3 prvi">
+            <div class="slider">
+                <div class="slides">
+                    <div class="slide"><img src="@Model.oglas.picture1" alt="Image 1"></div>
+                    <div class="slide"><img src="@Model.oglas.picture2" alt="Image 2"></div>
+                    <div class="slide"><img src="@Model.oglas.picture3" alt="Image 3"></div>
+                </div>
+                <div class="arrow left" onclick="prevSlide()">&#10094;</div>
+                <div class="arrow right" onclick="nextSlide()">&#10095;</div>
+            </div>
+            <script>
+                let slideIndex = 0;
+                showSlides();
+
+                function showSlides() {
+                    const slides = document.querySelectorAll('.slide');
+                    for (let i = 0; i < slides.length; i++) {
+                        slides[i].style.display = 'none';
+                    }
+                    slideIndex++;
+                    if (slideIndex > slides.length) { slideIndex = 1 }
+                    slides[slideIndex - 1].style.display = 'block';
+                }
+
+                function nextSlide() {
+                    const slides = document.querySelectorAll('.slide');
+                    slideIndex++;
+                    if (slideIndex > slides.length) { slideIndex = 1 }
+                    showSlides();
+                }
+
+                function prevSlide() {
+                    const slides = document.querySelectorAll('.slide');
+                    slideIndex--;
+                    if (slideIndex < 1) { slideIndex = slides.length }
+                    showSlides();
+                }
+            </script>
+        <div class="card-body">
+            <div class = "toRow">
+            <div class = "width75">
+						<div class="oglas-top">
+							<div>@Model.oglas.mojMobilni.brand @Model.oglas.mojMobilni.model</div>
+							@if (this.User.Identity.IsAuthenticated == true)
+							{
+								@if (this.User.Identity.Name != @Model.oglas.user.username)
+								{
+									<div class="favorites">
+										@if (@Model.save == true)
+										{
+											<button class="btn btn-primary dugme ubaci" type="submit" asp-route-id="@Model.oglas.id" asp-page-handler="SaveFavorites">
+											</button>
+										}
+										else
+										{
+											<button class="btn btn-primary dugme izbaci" type="submit" asp-route-id="@Model.oglas.id" asp-page-handler="RemoveFavorites">
+											</button>
+										}
+									</div>
+								}
+							}
+                        </div>
+
+                        <div class="user"><img src="@Model.oglas.user.picture" />@Model.oglas.user.name @Model.oglas.user.surname</div>
+                        @if(Model.prosek=="")
+                        {
+                            <div class="rating-wrapper">
+							    <h5 class="rating">@Model.prosek2 / 5</h5>
+
+							    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+								    <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+							    </svg>
+                            </div>
+                        }
+                        else {
+                            <h5 class="rating">@Model.prosek</h5>
+
+                            
+                        }@if (this.User.Identity.IsAuthenticated == true)
+                        {
+                            @if (this.User.Identity.Name != @Model.oglas.user.username)
+                            {
+                                if (@Model.boolocenio == false)
+                                {
+                                    <div class="dodaj-kom">
+                                        <select class="form-control" asp-for="@Model.ocena.ocena">
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                        </select>
+                                        <button class="btn btn-primary dugme" asp-page-handler="DodajOcenu" asp-route-id="@Model.oglas.id">Oceni</button>
+                                    </div>
+                                }
+                                else if (@Model.boolocenio == true && this.User.Identity.IsAuthenticated == true)
+                                {
+                                    <p>Vec ste ocenili korisnika</p>
+                                }
+                            }
+                        }
+                        <div class="other-info">
+				    <div style="font-weight=bold;font-size:20px">@Model.oglas.price €</div>
+				    <div> @Model.oglas.batteryHealth% Battery Health</div>
+				    <div>Proizveden @Model.oglas.year</div>
+                            @if (@Model.oglas.zeljeniMobilni != null) {
+                                <div>Za zamenu zelim @Model.oglas.zeljeniMobilni.brand @Model.oglas.zeljeniMobilni.model</div>
+                            }
+                            else
+                            {
+                                <p>Ne zelim zamenu</p>
+                            }
+                        </div>
+                        
+                    </div> 
+                    
+                </div>
+                @if(this.User.Identity.IsAuthenticated==true)
+                {
+                @if (this.User.Identity.Name != @Model.oglas.user.username)
+                {
+                    @if(@Model.send == true)
+                    {
+                            <div class= "request">
+                                Zakazi sastanak:
+                                <br>
+                                <div class = "toRow">
+                                <div class = "requestData">Datum: <input id = "datePicker" type = "date" asp-for="@Model.request.date" min="@System.DateTime.Now" max="2100-12-31" value = "@System.DateTime.Now"></div>
+                                <div class = "requestData">Vreme: <input asp-for="@Model.request.time" min = "08:00" max = "17:00" value = "08:00"></div>
+                                
+                                <button class="btn btn-primary dugme" asp-page-handler="SendRequest" asp-route-id = "@Model.oglas.id">Pošalji zahtev</button>
+                                </div>
+                                Sastanak ce biti zakazan na adresi prodavaca koja ce vam biti poslata nakon prihvatanja termina za razgledanje telefona, za vise informacija bice poslat i broj. 
+                            </div>
+                            <div asp-validation-summary="All" class="text-danger"></div>
+ 
+                    }
+                    else
+                    {
+                        <label class = "request">@Model.message</label>
+                    }
+                    }
+                    <div class="dodaj-kom">
+                        <input type="text" asp-for="@Model.komentar.tekst" placeholder="komentarisi" />
+                        <button class="btn btn-primary dugme" asp-page-handler="DodajKomentar" asp-route-id="@Model.oglas.id">Dodaj Kom</button>
+                    </div>
+            }
+        </div>
+        </div>
+             <div class="komentari">
+                @foreach (var k in @Model.Komentari)
+                {
+                    <div class="kom-wrapper">
+                        <div class="kom-user">
+                            <img src="@k.Komentator.picture"/>
+                            <h2>@k.Komentator.name</h2>
+                        <p class="datumce">@k.Datum.Date.ToString("dd/MM/yyyy")</p>
+                        </div>
+                        <p class="tekst">@k.tekst</p>
+                    </div>
+                }
+                </div>
+        
+        <div class = "drugi"> 
+            <h4>Oglasi istog vlasnika</h4>
+            <div id="myDIV">
+                    <div id = "content">
+                    @foreach (var oglas in @Model.thisOwnerOglasi)
+                    {
+                        <div class="card m-3">
+                            <img class="card-img-top imageThumbnail" src="@oglas.picture1" />
+                            <h5 class="text-center">@oglas.mojMobilni.brand @oglas.mojMobilni.model</h5>
+                            <div class="card-text">@oglas.price €</div>
+                            <div class="dugmiciIndex">
+                                <button class="btn btn-primary m-1 dugme" asp-page-handler="ViewMobilni" asp-route-id="@oglas.id">Pogledaj</button>
+                            </div>
+                        </div>
+                    }
+                    </div>
+    </div>
+        </div>
+        <div class = "drugi">
+             <h4>Predlozeni oglasi</h4>
+            <div id="myDIV">
+                    <div id = "content">
+                    @foreach (var oglas in @Model.recommendedMobilni)
+                    {
+                        <div class="card m-3">
+                            <img class="card-img-top imageThumbnail" src="@oglas.picture1" />
+                            <h5 class="text-center">@oglas.mojMobilni.brand @oglas.mojMobilni.model</h5>
+                            <div class="card-text">@oglas.price €</div>
+                            <div class="dugmiciIndex">
+                                <button class="btn btn-primary m-1 dugme" asp-page-handler="ViewMobilni" asp-route-id="@oglas.id">Pogledaj</button>
+                            </div>
+                        </div>
+                    }
+                    </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script>
+        $(function () {
+                $('#datetimepicker1').datetimepicker();
+            });
+    </script>
+
+    <style>
+        @@media only screen and (max-width: 600px) { 
+            .prvi {
+                flex-direction: column !important;
+            }
+        }
+        .slider {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            height: fit-content;
+        }
+
+        .slides {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .slide {
+            min-width: 100%;
+            flex: 1;
+        }
+        .slide img {
+            width: 100%;    
+        }
+        .arrow {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            z-index: 1;
+            font-size: 24px;
+            padding: 10px;
+            border-radius: 50%;
+        }
+
+        .rating-wrapper {
+            align-items: center;
+            display: flex;
+            gap: 10px;
+        }
+        }
+
+        .rating {
+            margin: 0 !important;
+            margin-top: 0 !important;
+            margin-bottom: 0 !important;
+        }
+        .kom-user img {
+            width: 33px;
+            height: 33px;
+            border-radius: 50%;
+        }
+        .kom-user h2 {
+            font-size: 26px;
+        }
+        .kom-user {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+        .datumce {
+            color: grey;
+            margin: 0 !important;
+        }
+        .tekst {
+            margin-left: 50px;
+        }
+        .dodaj-kom {
+            align-items: baseline;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+        .dodaj-kom input {
+                padding: 5px 6px;
+            }
+        }
+            .arrow.left {
+                left: 10px;
+            }
+
+            .arrow.right {
+                right: 10px;
+            }
+
+        .card-text {
+            margin: 0 auto;
+            color: grey;
+        }
+        .oglas-top {
+            display: flex;
+            justify-content: space-between;
+        }
+        .izbaci {
+            background: url("Pictures/like-red.jpg");
+            width: 3%;
+            background-size: cover;
+            height: 20px;
+            border-radius: 0 !important;
+        }
+
+        .ubaci {
+            background: url("Pictures/like-outline.jpg");
+            width: 3%;
+            background-size: cover;
+            height: 20px;
+            border-radius: 0 !important;
+        }
+        .other-info {
+            margin: 10px 0;
+            flex-direction: column;
+            display: flex;
+            gap: 10px;
+        }
+        .user img {
+            width: 16%;
+            margin: 10px 0;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+        .dugmiciIndex {
+            display: flex;
+            justify-content: center;
+        }
+        .dugme {
+            margin-bottom: 15px !important;
+            background-color: #4b423b;
+            transition: 0.3s;
+            border: none;
+            border-radius: 25px;
+        }
+
+        .dugme:hover {
+            background-color: #4b423b;
+            transform: scale(1.1);
+            border: none;
+        }
+        .red
+      {
+        color:red;
+      }
+        h4
+        {
+            text-align: center;
+            font-size: 28px !important;
+            font-weight: 500 !important;
+        }
+        .heightInherit, .card {
+            height: max-content;
+            border: none;
+        }
+        .width75
+        {
+            width: 75%;
+            display: flex;
+            flex-direction: column;
+        }
+        .btn
+        {
+            margin: 2px;
+        }
+        .requestData
+        {
+            margin: 2px;
+        }
+        .prvi {
+            display: flex;
+            flex-direction: row;
+        }
+        .drugi
+        {
+            width: 100%;
+            border-radius: 5px;
+            margin-bottom: 50px;
+        }
+        img
+        {
+            border-radius: 10px;
+            object-fit: fill;
+        }
+        #myDIV
+        {
+            width: 100%;
+            overflow: auto;
+        }
+        #content {
+            display: flex;
+        }
+        .panel, .flip 
+        {
+            padding: 5px;
+            text-align: center;
+            background-color: white;
+            width: 100%;
+        }
+
+        .panel 
+        {
+            height: fit-content;
+            display: none;
+        }
+        .toColumn
+        {
+            display:flex;
+            flex-direction: column;
+            width: 35%;
+            height:fit-content;
+        }
+        .toRow {
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            margin: 0 auto;
+        }
+        .test{
+             background-color: #79bbff;
+             color: black;
+             display: flex;
+             flex-direction: row;
+        }
+        .request
+        {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            width: fit-content;
+            padding: 10px;
+        }
+        .data
+        {
+            font-size: 25px;
+            width: 50%;
+        }
+        .mobPictureDiv
+        {
+            height: 100%;
+            width: 50%;
+        }
+        .mobPicture
+        {
+            height: 100%; 
+            width: 100%; 
+            object-fit: contain;
+        }
+        .starPicture
+        {
+            width: 24px;
+            height: 20px;
+        }
+        .btn
+      {
+        margin: 2px;
+      }
+        .allRecommended
+        {
+            display: flex;
+            flex-direction: row;
+            background-color:#79bbff;
+            width: fit-content;
+            margin-bottom: 100px;
+        }
+        .oneRecommended
+        {
+            display: flex;
+            flex-direction: column;
+            width: 200px;
+            margin: 5px;
+
+        }
+        .mobPictureDivRec
+        {
+            height: 100%;
+            width: 100%;
+        }
+        .mobPictureRec
+        {
+            height: 100%; 
+            width: 100%; 
+            object-fit: contain;
+           
+        }
+        .infoRec
+        {
+            display: flex;
+            flex-direction: row;
+        }
+        .oneOfThisOwner
+        {
+            display:flex;
+            flex-direction: row;
+            margin: 5px;
+            padding: 5px;
+        }
+        .mySlides {display:none;}
+    </style>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script> 
+        $(document).ready(function(){
+        $(".flip").click(function(){
+            $(".panel").slideToggle("slow");
+        });
+        });
+    </script>
+    <script>
+        var slideIndex = 1;
+        showDivs(slideIndex);
+
+        function plusDivs(n) {
+        showDivs(slideIndex += n);
+        }
+
+        function showDivs(n) {
+
+        var i;
+        var x = document.getElementsByClassName("mySlides");
+        if (n > x.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = x.length}
+        for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";  
+        }
+        x[slideIndex-1].style.display = "block";  
+        }
+    </script>
+</form>

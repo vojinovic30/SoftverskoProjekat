@@ -1,0 +1,165 @@
+﻿@page
+@model startApp.Pages.SignUpModel
+@{
+}
+
+
+<html>
+    <head>
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="inner">
+            <h1>Registracija</h1>
+            <img src="~/Pictures/logo.png" />
+        
+                <form method="post" class="formLogIn">
+                    <div class="kontejnerSveInfo">
+                        <div class="dveInfo">
+                            <input type="text" placeholder='Ime' class="input" asp-for="MojKorisnik.name"/>
+
+                            <input type="text" placeholder='Prezime' class="input" asp-for="MojKorisnik.surname"/>
+                        </div>
+
+                        <div class="dveInfo">
+                            <input type="text" placeholder='Adresa' class="input" asp-for="MojKorisnik.address"/>
+
+                            <input type="text" placeholder='Broj telefona' class="input" asp-for="MojKorisnik.brojTelefona"/>
+                        </div>
+                        <div>
+
+                            <input placeholder='Slika korisnika' asp-for="MojKorisnik.picture" type="file" class="input slika" />
+                        </div>
+                        <div>
+                            <input type="text" placeholder='Username' class="input user" asp-for="MojKorisnik.username"/>
+                        </div>
+                         
+
+                        <div class="dveInfo">
+                            <input type="password" placeholder='Sifra' class="input" asp-for="MojKorisnik.password"/>
+
+                            <input type="password" placeholder='Ponovite sifru' class="input" asp-for="ponovljeniPassword"/>
+                        </div>
+
+                        <div class="dveInfo">
+                            <input type="text" placeholder='Sigurnosno pitanje' class="input" asp-for="MojKorisnik.sigurnosnoPitanje"/>
+
+                            <input type="texts" placeholder='Odgovor na sigurnosno pitanje' class="input" asp-for="MojKorisnik.odgovorNaPitanje"/>
+                        </div>
+
+                        <div class="DivDugmeRegistracija">
+                            <button class="button">Registrujte se</button>
+                        </div>
+
+
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    <style>      
+        @@media only screen and (max-width: 600px) {
+            img {
+                width: 10%;
+            }
+            .inner {
+                width: 100% !important;
+            }
+        }
+        img {
+            width: 3%;
+        }   
+        .slika, .user {
+            width: 80% !important;
+            display: block;
+        }
+         .firstCapital
+        {
+            text-transform: capitalize;
+        }
+        
+        .container .inner{ 
+            width: 60%; 
+            height: 100%; 
+            margin: 20px auto;
+            border : 1px solid none;
+            padding: 10px;
+            margin-bottom: 100px;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
+        .inner h1 {
+            color: #1b1b1b;
+            font-family: calibri, arial;
+            font-weight: bold;
+            text-align: center;
+            font-size: 40px;
+        }
+
+        .inner h3 {
+            color: #1b1b1b;
+            font-size: 18px;
+            font-family: calibri;
+            text-align: center;
+            margin-top: -5px;
+        }
+        .inner .input {
+            width: 40% !important;
+            border: #333 1px solid;
+            background: transparent;
+            padding: 10px;
+            margin: 0 auto;
+            margin: 5px;
+            border-radius: 10px;
+        }
+
+            .inner .input:focus {
+                box-shadow: none;
+                border: 1px solid #1b1b1b;
+            }
+
+
+        .button:hover {
+            transform: scale(1.05);
+            background: #4b423b;
+        }
+
+        .button {
+            padding: 10px 8px;
+            color: white;
+            background: #4b423b;
+            margin-top: 10px;
+            border: none;
+            transition: 0.3s;
+            border-radius: 25px;
+            padding: 9px 22px;
+        }
+        .inner .button:hover{
+            color: white;
+        }
+
+        .kontejnerSveInfo{
+            display: flex; 
+            flex-direction: column;
+        }
+        .dveInfo{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        .formLogIn {
+            margin-top: 25px;
+            width: 100%;
+        }
+        .DivDugmeRegistracija{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+    </body>
+</html>
